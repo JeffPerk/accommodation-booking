@@ -20,6 +20,6 @@ Vue.component('practice-component', require('./components/PracticeComponent.vue'
 
 $(document).ready(function () {
   new Vue({
-    el: '#app'
+    el: '#practice'
   });
 });
